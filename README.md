@@ -17,6 +17,8 @@ You need to give the right command for performing these tasks.
 
 Alpha is a self learning Chatbot. You can converse with it like a person. 
 Alpha is a toddler and have to teach her on how to respond for each questions the user asks.
+
 Once taught, Alpha stores the information in a json file.
+
 If the same question is repeated, it can fetch the data from existing data and answers correctly. 
 It's like teaching a new-born baby on how to respond and converse to each questions asked.
