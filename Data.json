@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "how are you",
+      "answer": "I am fine. How are you?"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "what's the capital of france",
+      "answer": "Paris"
+    },
+    {
+      "question": "what's the capital of india",
+      "answer": "Delhi"
+    },
+    {
+      "question": "bye",
+      "answer": "Goodbye"
+    },
+    {
+      "question": "what's your name",
+      "answer": "My name is Alpha"
+    },
+    {
+      "question": "I am fine ",
+      "answer": "How can I help you?"
+    },
+    {
+      "question": "Boring ",
+      "answer": "Wanna search on yt?"
+    },
+    {
+      "question": "your age ",
+      "answer": "I am a chatbot, I dont have an age"
+    },
+    {
+      "question": "who are you",
+      "answer": "I am a chatbot named Alpha"
+    },
+    {
+      "question": "hola",
+      "answer": "hola amigo"
+    },
+    {
+      "question": "what is alpha",
+      "answer": "Alpha is a bot you are currently chatting with"
+    },
+    {
+      "question": "Alpha",
+      "answer": "Yes, that's me. How many I help you"
+    },
+    {
+      "question": "Yes",
+      "answer": "Okk"
+    },
+    {
+      "question": "Wrong",
+      "answer": "Oh! I am sorry"
+    },
+    {
+      "question": "You are right ",
+      "answer": "Sure am"
+    },
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+    {
+      "question": "2",
+      "answer": "I'm sorry could you elaborate"
+    },
+    {
+      "question": "+",
+      "answer": "I'm sorry could you elaborate "
+    },
+    {
+      "question": "ALPHA",
+      "answer": "Yes, that's me. How may I help you"
+    },
+    {
+      "question": "Thanks",
+      "answer": "You are Welcome "
+    },
+    {
+      "question": "Ohh I see",
+      "answer": "Yes. So, can I assist you with something?"
+    },
+    {
+      "question": "Sure",
+      "answer": "What do you wanna do currently "
+    },
+    {
+      "question": "Good",
+      "answer": "How can I help you"
+    },
+    {
+      "question": "Capital of Japan",
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Hmm",
+      "answer": "Hmm..."
+    }
+  ]
+}
