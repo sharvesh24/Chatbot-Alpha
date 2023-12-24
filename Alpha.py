@@ -24,7 +24,7 @@ def get_answer(question, data):
             return q["answer"]
 
 def alpha():
-    data = dict(load_data('D://Programs//Chatbot//Chatbot//Data.json'))
+    data = dict(load_data('Data.json'))
 
     while True:
         user = input('USER: ')
@@ -56,7 +56,7 @@ def alpha():
                 break
             else:
                 data["questions"].append({'question': user, "answer": new})
-                save_data('D://Programs//Chatbot//Chatbot//Data.json', data)
+                save_data('Data.json', data)
                 print('ALPHA: Thanks! I learned a new response')
 if __name__ == '__main__':
     alpha()
