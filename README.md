@@ -4,6 +4,7 @@ Alpha is a chatbot that does various functions.
 It searches YouTube, Wikipedia annd so on. 
 You need to give the right command for performing these tasks. 
 
+
 -> To search YouTube, type a sentence with the word 'play' in it.
 
 -> To search Wikipedia, type a sentence starting with 'who is'.
@@ -11,6 +12,7 @@ You need to give the right command for performing these tasks.
 -> To know the current time, type the word 'time' in any part of the sentence.
 
 -> To get a joke, type 'joke' in any part of the sentence.
+
 
 
 Alpha is a self learning Chatbot. You can converse with it like a person. 
